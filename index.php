@@ -1,22 +1,7 @@
-<!-- TODO: split this up into "includes" -->
-<!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <title>Simple Task Manager</title>
-        <meta charset="UTF-8">
-        <!-- TODO: Add external stylesheets and other dependencies here -->
-    </head>
+<?php include('includes/head.php'); ?>
 
-    <body>
-        <nav>
-
-        </nav>
         <!-- TODO: Create our Task form  -->
 
         <!-- TODO: Display current tasks -->
 
-        <footer>
-
-        </footer>
-    </body>
-</html>
+<?php include('includes/footer.php');
