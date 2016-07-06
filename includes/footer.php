@@ -1,6 +1,6 @@
 </div>
-    <footer>
-
+    <footer class="footer">
+        <p class="text-muted">This is my footer, yo.</p>
     </footer>
 
     </div>
