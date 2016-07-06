@@ -1,5 +1,5 @@
+<!-- TODO: split this up into "includes" -->
 <!DOCTYPE html>
-
 <html lang="en-US">
     <head>
         <title>Simple Task Manager</title>
@@ -9,7 +9,7 @@
 
     <body>
         <nav>
-            
+
         </nav>
         <!-- TODO: Create our Task form  -->
 
