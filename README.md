@@ -1,2 +1,1 @@
-# simple-task
-Simple Task Manager using vanilla PHP.
+<h1>Simple Task Manager</h1>
