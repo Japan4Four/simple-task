@@ -3,7 +3,7 @@
   This is the repository for our simple task manager.
   <br>
   Below is an outline of how we are going to complete this application from start to finish.
-  
+  <br>
   <strong>NOTE:</strong> This project only uses vanilla PHP, meaning no frameworks, this is purely for educational purposes and not intended for anything more.
 </p>
 
