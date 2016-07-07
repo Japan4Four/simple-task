@@ -17,7 +17,7 @@
     <div class="panel panel-default">
         <div class="panel-heading"><h5>Active Tasks:</h5></div>
         <div class="panel-body">
-            Active tasks will be placed here.
+            <?php include('includes/tasks/tasks.php'); ?>
         </div>
     </div>
 </div>
