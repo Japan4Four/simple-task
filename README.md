@@ -26,7 +26,6 @@
     <ol>
       <li>Adding tasks to database</li>
       <li>Validating input in our forms</li>
-      <li>Editing tasks from database</li>
       <li>Deleting tasks from database</li>
     </ol>
     

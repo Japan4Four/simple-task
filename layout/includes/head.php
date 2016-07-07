@@ -1,4 +1,5 @@
-<!-- TODO: split this up into "includes" -->
+<?php session_start(); ?>
+
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -15,4 +16,4 @@
 <body>
 <div class="container">
     <div class="row">
-        <?php include('includes/navigation.php'); ?>
+        <?php include('layout/includes/navigation.php'); ?>
